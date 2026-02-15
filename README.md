@@ -42,15 +42,18 @@ Accuracy, AUC Score, Precision, Recall, F1 Score, and Matthews Correlation Coeff
 | Random Forest (Ensemble) | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 1.0000 |
 | XGBoost (Ensemble) | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 1.0000 |
 
-Observations
-Model	Observation
-Logistic Regression	High recall makes it effective for identifying positive heart disease cases
-Decision Tree	Achieves very high accuracy by learning complex decision rules
-KNN	Balanced performance and benefits from feature scaling
-Naive Bayes	Fast and efficient despite strong independence assumptions
-Random Forest	Provides excellent performance through ensemble averaging
-XGBoost	Best overall performance due to boosting and regularization
-Streamlit Application
+
+## Model Performance Observations
+
+| ML Model | Observation about model performance |
+|---------|------------------------------------|
+| Logistic Regression | Performs well with high recall, making it effective in identifying positive heart disease cases |
+| Decision Tree | Achieves very high accuracy by learning detailed decision rules from the dataset |
+| KNN | Shows balanced performance and benefits significantly from feature scaling |
+| Naive Bayes | Provides efficient and reasonably accurate predictions despite strong independence assumptions |
+| Random Forest (Ensemble) | Demonstrates excellent performance by aggregating multiple decision trees |
+| XGBoost (Ensemble) | Delivers the best overall results due to boosting and regularization techniques |
+
 
 The Streamlit web application provides:
 
