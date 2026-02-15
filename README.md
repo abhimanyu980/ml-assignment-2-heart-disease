@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Machine Learning Assignment 2 – Heart Disease Classification
 a. Problem Statement
 
@@ -63,7 +62,4 @@ Display of evaluation metrics
 Confusion matrix and classification report
 
 The application is deployed using Streamlit Community Cloud.
-=======
-# ml-assignment-2-heart-disease
-Bits-Pilani-ML-Assignment2
->>>>>>> 8e8643802870ece7862e880a8009427b0c8bdb39
+
